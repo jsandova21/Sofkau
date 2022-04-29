@@ -25,9 +25,9 @@ Se requiere de la instalación de:
 	*También se requiere =>aptitude install  libdbi-perl libdbd-pg-perl
 
 2.-Para cargar la base de datos:
-	*Desde consola  (con usuario root) nos pasamos a usuario postgres=>  su postgres
-	*Nos conectamos a template1 => psql template1
-	*Creamos la base de datos juegodb =>create database juegodb;
-	*Luego nos cambiamos a  juegodb con =>\c  juegodb
-	*Cargamos el esquema  =>\i /home/jsandova/JOEL/SofkaU/juegodb.sql
-	*Y listo ya tenemos nuestra base de datos creada y configurada.
+	Desde consola  (con usuario root) nos pasamos a usuario postgres=>  su postgres
+	Nos conectamos a template1 => psql template1
+	Creamos la base de datos juegodb =>create database juegodb;
+	Luego nos cambiamos a  juegodb con =>\c  juegodb
+	Cargamos el esquema  =>\i /home/jsandova/JOEL/SofkaU/juegodb.sql
+	Y listo ya tenemos nuestra base de datos creada y configurada.
