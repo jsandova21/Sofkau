@@ -25,6 +25,7 @@ Se requiere de la instalación de:
 	*También se requiere =>aptitude install  libdbi-perl libdbd-pg-perl
 
 2.-Para cargar la base de datos:
+	
 	Desde consola  (con usuario root) nos pasamos a usuario postgres=>  su postgres
 	
 	Nos conectamos a template1 => psql template1
